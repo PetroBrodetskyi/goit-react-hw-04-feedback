@@ -1,0 +1,21 @@
+.feedbackbtnflex {
+  display: flex;
+  gap: 20px;
+}
+
+.feedbackbutton {
+  display: flex;
+  min-width: 60px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.8);
+  cursor: pointer;
+}
+
+.feedbackbutton:hover {
+  background-color: rgb(111, 111, 241);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+}

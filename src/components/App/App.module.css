@@ -1,0 +1,14 @@
+.sectionapp {
+  width: 400px;
+  height: 400px;
+  padding: 30px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  background: linear-gradient(
+    180deg,
+    rgb(238, 19, 227) 0%,
+    rgba(255, 255, 255, 1) 130%
+  );
+}
